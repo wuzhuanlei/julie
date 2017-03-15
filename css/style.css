@@ -1,0 +1,118 @@
+
+body {
+    background: gainsboro;
+}
+
+#navigation {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: black;
+    min-height: 60px;
+    color: white;
+}
+
+#navigation li {
+    margin: 10px;
+    float: left;
+    list-style: none;
+    vertical-align: top;
+}
+
+#navigation li a {
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+#navigation li a:hover {
+    color: gainsboro;
+    text-decoration: none;
+}
+
+#logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: black;
+    min-height: 60px;
+    color: white;
+    width: 100%;
+}
+
+#logo img {
+    padding-top: 15px;
+    padding-left: 30px;
+}
+
+.top {
+    float: left;
+}
+
+.common {
+    background: white;
+    margin: 20px 10px 20px 10px;
+    border: groove; border-left-style: none; border-top-style: none;
+}
+
+.common {
+    padding: 10px 10px 10px 10px;
+}
+
+#footer {
+    background: black;
+    font-size: 12px;
+    min-height: 60px;
+}
+
+.footer-text {
+    color: white;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.article {
+    margin: 10px 10px 10px 10px;
+    font-size: 14px;
+}
+.sidebar{
+    float: left;
+    min-height: 400px;
+    min-width: 400px;
+}
+.article1,article2,article3{
+    font-size: 14px;
+}
+#table thead th{
+    background-color: black;
+    color: white;
+    text-align: left;
+}
+#table {
+    font: 80% sans-serif;
+    border-collapse: collapse;
+    border: 1px solid gainsboro;
+    min-width: 1000px;
+}
+#table tr{
+
+    border: 1px solid gainsboro;
+}
+#table>caption{
+     text-align: right;
+     font-size: 100%;
+     font-style: italic;
+     border-top: .2em solid #4ca;
+     margin-bottom: .5em;
+ }
+#tfoot{
+    text-align: left;
+    background-color:gainsboro;
+}
+.submitBtn{
+    min-width: 1000px;
+    background-color:darkblue;
+    min-height: 30px;
+    border-radius:8px 8px 8px 8px;
+    color: white;
+}
