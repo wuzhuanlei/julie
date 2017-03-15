@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b06da55e-c3fe-4c47-8275-0418ace1f407" name="Default" comment="commit my  ifetask02">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ifetask02.html" />
+    <list default="true" id="b06da55e-c3fe-4c47-8275-0418ace1f407" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ifetask02.html" afterPath="$PROJECT_DIR$/ifetask02.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,8 +25,8 @@
       <file leaf-file-name="ifetask02.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ifetask02.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="48" column="29" lean-forward="false" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="29" />
+            <state relative-caret-position="259">
+              <caret line="130" column="29" lean-forward="false" selection-start-line="130" selection-start-column="22" selection-end-line="130" selection-end-column="29" />
               <folding>
                 <element signature="e#714#720#0" expanded="true" />
                 <element signature="e#757#763#0" expanded="true" />
@@ -38,9 +37,9 @@
                 <element signature="e#1866#1872#0" expanded="true" />
                 <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="e#2762#2768#0" expanded="true" />
-                <element signature="n#select#0;n#form#0;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#6253#6259#0" expanded="true" />
+                <element signature="e#6239#6245#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -50,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="193">
-              <caret line="84" column="1" lean-forward="true" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+              <caret line="79" column="17" lean-forward="false" selection-start-line="79" selection-start-column="17" selection-end-line="79" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -71,6 +70,7 @@
       <find>navigation</find>
       <find>form</find>
       <find>sidebar</find>
+      <find>formInfo</find>
       <find>article2</find>
     </findStrings>
   </component>
@@ -120,6 +120,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="julie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="julie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="julie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -212,7 +226,7 @@
       <option name="presentableId" value="Default" />
       <updated>1489476200454</updated>
       <workItem from="1489476202331" duration="6600000" />
-      <workItem from="1489547209838" duration="11643000" />
+      <workItem from="1489547209838" duration="13202000" />
     </task>
     <task id="LOCAL-00001" summary="commit my  test">
       <created>1489479918181</created>
@@ -221,11 +235,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489479918181</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit my  ifetask02">
+      <created>1489565671493</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1489565671493</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18243000" />
+    <option name="totallyTimeSpent" value="19802000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -240,7 +261,7 @@
     <frame x="0" y="0" width="1920" height="1041" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25323275" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17079741" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951945" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32951945" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -298,8 +319,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ifetask02.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="48" column="29" lean-forward="false" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="29" />
+        <state relative-caret-position="259">
+          <caret line="130" column="29" lean-forward="false" selection-start-line="130" selection-start-column="22" selection-end-line="130" selection-end-column="29" />
           <folding>
             <element signature="e#714#720#0" expanded="true" />
             <element signature="e#757#763#0" expanded="true" />
@@ -310,9 +331,9 @@
             <element signature="e#1866#1872#0" expanded="true" />
             <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="e#2762#2768#0" expanded="true" />
-            <element signature="n#select#0;n#form#0;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#6253#6259#0" expanded="true" />
+            <element signature="e#6239#6245#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -320,7 +341,7 @@
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
-          <caret line="84" column="1" lean-forward="true" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+          <caret line="79" column="17" lean-forward="false" selection-start-line="79" selection-start-column="17" selection-end-line="79" selection-end-column="17" />
           <folding />
         </state>
       </provider>
